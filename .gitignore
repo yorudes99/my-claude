@@ -9,9 +9,16 @@
 
 # Directories of hand-written extensions (tracked when they exist)
 !agents/
+!agents/**
 !commands/
+!commands/**
 !skills/
+!skills/**
 !hooks/
+!hooks/**
 !output-styles/
+!output-styles/**
 !rules/
+!rules/**
 !scripts/
+!scripts/**
