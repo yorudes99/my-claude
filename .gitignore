@@ -1,0 +1,17 @@
+# Ignore everything in ~/.claude by default
+*
+
+# Track only hand-written config
+!.gitignore
+!README.md
+!LICENSE
+!CLAUDE.md
+
+# Directories of hand-written extensions (tracked when they exist)
+!agents/
+!commands/
+!skills/
+!hooks/
+!output-styles/
+!rules/
+!scripts/
